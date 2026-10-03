@@ -4,3 +4,5 @@
 > This roadmap focuses on **understanding JavaScript deeply**, not just learning syntax.
 
 ## 📅 Day 1 — Computer Languages Evolution
+
+## 📅 Day 2 — JavaScript History
