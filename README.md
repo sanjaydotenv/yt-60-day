@@ -6,3 +6,5 @@
 ## 📅 Day 1 — Computer Languages Evolution
 
 ## 📅 Day 2 — JavaScript History
+
+## 📅 Day 3 — ECMAScript
